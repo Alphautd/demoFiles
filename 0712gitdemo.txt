@@ -1,0 +1,3 @@
+Hi this is git
+initializing the repository and push the files in the repo. 
+initializing is done successfully...
